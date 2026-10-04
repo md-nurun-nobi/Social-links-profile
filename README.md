@@ -69,7 +69,7 @@ Some accessibility practices used in this project include:
 - Sufficient text and background contrast
 - Proper heading structure
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 
@@ -91,7 +91,7 @@ social-links-profile/
 
 > The exact file structure may vary depending on the local project setup.
 
-## 📚 What I Learned
+##  What I Learned
 
 While building this project, I practiced:
 
@@ -105,7 +105,7 @@ While building this project, I practiced:
 - Improving accessibility with semantic HTML
 - Deploying a Vite project to Vercel
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally:
 
